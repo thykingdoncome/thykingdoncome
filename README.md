@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I am Azemoh Israel, a Software engineer (Web frontend-focused). Welcome to my growing universe👨‍💻
+
+
+
 <!--
 **thykingdoncome/thykingdoncome** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
